@@ -1,14 +1,10 @@
 # 乐湖通管理后台
 
-仅包含管理网页构建产物。
+仅包含管理网页（根路径）与学生视频课程网页（`learning/`）的构建产物。
 
-源码：[ruc-suzhou-student-app@af05b1f](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/af05b1f88b6e6630b9eaf866311aca8afd8579b0)，分支 `codex/admin-interface-cleanup-20261029`；[PR #232](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/232)。
+源码：[ruc-suzhou-student-app@254b496](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/254b496)，`develop` 分支；包含视频课程第二轮修改 [PR #240](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/240) 与电脑登录二维码 [PR #242](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/242)。
 
-- 各模块只保留一个页面标题，删除欢迎大区、重复业务介绍和多余副标题。
-- 统一紧凑操作栏、统计卡片、表格、选择控件和分组列表；主要内容随整个右侧区域滚动。
-- 保留权限、扣款约束、发券范围、删除后果、字段校验和不确定结果恢复提示。
-- 保留课程分类、后台独立维护资料和既有业务流程；聊天、抽屉、选择器保持必要的独立滚动。
+- 后台：视频课程的章节管理、开放方式（免费／收费且可试听／需开通）、批量授权与审计、水印短码查询。
+- 学生网页：课程 → 章节 → 视频目录，±5 秒与长按倍速，按课程保留的答疑对话与清除，可拖动的答疑栏，扫码登录。
 
-验证覆盖全部17个工作区，56项浏览器用例，以及类型／生产构建／结构／共享契约检查。测试均使用合成数据。
-
-本次无云函数更新，无小程序源码、配置、依赖、构建或微信体验包变更；不修改真实业务数据。
+构建时 `VITE_ADMIN_API_URL`、`VITE_LEARNING_API_URL` 指向现有 CloudBase 环境，未改变接口地址。
