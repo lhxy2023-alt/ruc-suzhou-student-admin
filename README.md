@@ -1,5 +1,10 @@
 # 乐湖通管理后台
 
+## 员工业务栏目独立授权（2026-11-09）
+
+根路径后台构建源码：[main@2ffd8204a953df45e735b705defffb14d3514753](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/2ffd8204a953df45e735b705defffb14d3514753)，[修复 #281](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/281)、[发布 #282](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/282)。18 项业务栏目与员工分工清单统一；活动管理、视频课程、用户端文案、事项提醒和操作记录可独立分配。后台 API 与视频接口同步发布；现有员工数据及 `learning/` 学生网页保留。
+
+
 ## 后台权益活动管理（2026-11-09）
 
 根路径后台构建源码：[main@0e4da59fd4a7fd2022e61d51e588ce9b4ca1aa21](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/0e4da59fd4a7fd2022e61d51e588ce9b4ca1aa21)，发布 [PR #279](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/279)。包含权益热门活动管理及当前 main 全部后台改动。后台 API 和视频课程 API 使用原 CloudBase 地址，保留既有版本资源以兼容已打开的浏览器。`learning/` 学生网页保留既有产物。
