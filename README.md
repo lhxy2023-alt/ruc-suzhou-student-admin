@@ -1,5 +1,10 @@
 # 乐湖通管理后台
 
+## 后台权益活动管理（2026-11-09）
+
+根路径后台构建源码：[main@0e4da59fd4a7fd2022e61d51e588ce9b4ca1aa21](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/0e4da59fd4a7fd2022e61d51e588ce9b4ca1aa21)，发布 [PR #279](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/279)。包含权益热门活动管理及当前 main 全部后台改动。后台 API 和视频课程 API 使用原 CloudBase 地址，保留既有版本资源以兼容已打开的浏览器。`learning/` 学生网页保留既有产物。
+
+
 仅包含管理网页（根路径）与学生视频课程网页（`learning/`）的构建产物。
 
 源码：[ruc-suzhou-student-app@8e40096](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/8e40096)，`develop` 分支；包含视频课程第二轮修改 [PR #240](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/240) 与电脑登录二维码 [PR #242](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/242)。
