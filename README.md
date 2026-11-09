@@ -1,5 +1,9 @@
 # 乐湖通管理后台
 
+## 商品预览与兑换文案（2026-11-09）
+
+构建源码 [6642a58](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/6642a580fbfbd2daccd472f6e917dd184d22e5c6)。商品管理支持预览与编辑兑换文案，沿用线上课程上传和文件夹功能。
+
 ## 课程资料音视频上传（2026-11-09）
 
 根路径后台构建源码为 [main@80a1fe4](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/80a1fe4c80235683f01ed5240ff868e5edc20bc0)，对应[后台修复 #283](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/283)及[发布 #284](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/284)。课程资料编辑与批量上传接受 MP3、M4A、WAV 和 MP4，单文件上限为 20 MB。后台地址和视频课程服务地址沿用现有配置。
