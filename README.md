@@ -1,5 +1,9 @@
 # 乐湖通管理后台
 
+## 后台文件上传上限（2026-11-09）
+
+构建源码 [5fccc01](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/5fccc011025d57584a49ae4e8b9631981e4a49fa)。课程资料、普通班级资料、消息附件和视频课程 PDF 的单份上限为 200 MB。
+
 ## 商品预览与兑换文案（2026-11-09）
 
 构建源码 [6642a58](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/6642a580fbfbd2daccd472f6e917dd184d22e5c6)。商品管理支持预览与编辑兑换文案，沿用线上课程上传和文件夹功能。
