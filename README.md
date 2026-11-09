@@ -1,5 +1,9 @@
 # 乐湖通管理后台
 
+## 课程资料音视频上传（2026-11-09）
+
+根路径后台构建源码为 [main@80a1fe4](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/80a1fe4c80235683f01ed5240ff868e5edc20bc0)，对应[后台修复 #283](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/283)及[发布 #284](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/284)。课程资料编辑与批量上传接受 MP3、M4A、WAV 和 MP4，单文件上限为 20 MB。后台地址和视频课程服务地址沿用现有配置。
+
 ## 员工业务栏目独立授权（2026-11-09）
 
 根路径后台构建源码：[main@2ffd8204a953df45e735b705defffb14d3514753](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/2ffd8204a953df45e735b705defffb14d3514753)，[修复 #281](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/281)、[发布 #282](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/282)。18 项业务栏目与员工分工清单统一；活动管理、视频课程、用户端文案、事项提醒和操作记录可独立分配。后台 API 与视频接口同步发布；现有员工数据及 `learning/` 学生网页保留。
