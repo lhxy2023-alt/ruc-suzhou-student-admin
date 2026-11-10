@@ -1,5 +1,9 @@
 # 乐湖通管理后台
 
+## 资料库多级目录路径（2026-11-10）
+
+构建源码 [843257f](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/843257f838eca85acbbf4ac951c6eddbdd2f9167)。课程资料库显示目录路径，进入文件夹后可直接新建子文件夹。保留现有上传能力。
+
 ## 后台文件上传上限（2026-11-09）
 
 构建源码 [5fccc01](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/5fccc011025d57584a49ae4e8b9631981e4a49fa)。课程资料、普通班级资料、消息附件和视频课程 PDF 的单份上限为 200 MB。
