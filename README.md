@@ -49,3 +49,6 @@
 2026-11-11 视频课程目录与播放器提速：源码 `b3b36cc7e33cce793ae23c16a5d03814949b7223`，产物校验见 `learning-playback-release.json`。
 
 2026-11-11 视频课/讲义栏目、下载原名与答疑栏稳定修复：源码 `858b4d6d92418938e1eb1163cef1a297c596a9bd`，校验见 `learning-ui-feedback-release.json`。
+
+
+2026-11-11 后台工作区按需加载：源码 `e19e5e26155b405f80bf65cc50a9ee9e1a9a9a3e`，初次静态 JavaScript 依赖减少 52.25%，CSS 与原版逐字节一致。保留旧资源及 learning/；校验见 `admin-loading-release.json`。
