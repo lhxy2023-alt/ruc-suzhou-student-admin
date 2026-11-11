@@ -44,3 +44,6 @@
 ## 后台可靠性与资料库界面（2026-11-11）
 
 源码 [main@eeadce5](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/eeadce5a521bb9085fca6cc2b46e7d06ddf67f86)，开发集成 [PR #309](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/309)，后台发布 [PR #310](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/pull/310)。商品库存冲突、草稿保护与原保存核对，管理员恢复记录隔离，按业务缓存和分页读取，课程资料库工具栏与键盘页签。
+
+
+2026-11-11 视频课程目录与播放器提速：源码 `b3b36cc7e33cce793ae23c16a5d03814949b7223`，产物校验见 `learning-playback-release.json`。
