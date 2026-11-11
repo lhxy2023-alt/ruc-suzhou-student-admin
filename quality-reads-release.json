@@ -1,0 +1,39 @@
+{
+  "source": "67a3c8b6357c71e8a13fe4fc462c24227b8565f4",
+  "developSource": "6c66b8abf046208889e9e9fe30aaf9f979b399c3",
+  "sourcePR": 325,
+  "features": [
+    "database-class-pagination",
+    "independent-reminder-list-and-counts",
+    "notification-summary-and-request-deduplication",
+    "single-class-snapshot"
+  ],
+  "cloud": {
+    "source": "67a3c8b6357c71e8a13fe4fc462c24227b8565f4",
+    "status": "Active",
+    "available": "Available",
+    "modifiedAt": "2026-11-11 16:32:53",
+    "settingsPreserved": true,
+    "verifiedRuntimeFiles": 156,
+    "verifiedDependencyFiles": 5899,
+    "runtimeDependencyFilesMatch": true,
+    "generatedDependencyLockMetadata": "Only license/workspaces metadata regenerated; package versions, integrity, resolution and all 5899 dependency files are identical",
+    "codeSize": 17009429
+  },
+  "indexes": {
+    "added": 19,
+    "collections": 8,
+    "existingIndexesPreserved": true,
+    "originalPermissionsPreserved": true
+  },
+  "files": {
+    "index.html": "854159e8eb375a3a9342bc9bc881c67f32b24b8dbfa47490887d1d8189fb9445",
+    "assets/index.browser-B7fEkFrz.js": "74bfede306adab1e28a16a875de4c415b6ad3696249e44c4b1b617467b0de964",
+    "assets/index-DBaXtvNc.css": "c54b8620e19b70e7952cce95b1ca5de1153802db8b6ff897edb52fedcf1ffdfb",
+    "assets/tc_vod--YHQR4my.js": "0712a5571b8a7a8b047e32f355cf0a44082c1d5a87f03ba320083cbd5cc229ff",
+    "assets/hls-DEc1BeRd.js": "7402484d115501214bef8d8140b5971af4403ce4bed639b242f19e152c534f80",
+    "assets/index-CZF7epm4.js": "e17f21f454497832ee3507e007dcbfa529fe8fb14d02e859cf8d5905fbd3c561",
+    "assets/LearningPreview-Zg_qj65s.js": "392cc73ee4bb54ee48fe1ace170f2693b6ef9307b4342600446b537ee2beaf88"
+  },
+  "realDeviceAcceptance": "pending"
+}
