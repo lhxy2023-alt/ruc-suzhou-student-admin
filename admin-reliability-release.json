@@ -1,0 +1,12 @@
+{
+  "source": "eeadce5a521bb9085fca6cc2b46e7d06ddf67f86",
+  "developSource": "2515902c169dd1946fd567c2c9a5853a20fbd800",
+  "sourcePR": 310,
+  "features": [
+    "product-stock-conflicts",
+    "account-owned-recovery",
+    "scoped-admin-reads",
+    "paged-classes",
+    "course-library-controls"
+  ]
+}
