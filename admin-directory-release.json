@@ -1,0 +1,33 @@
+{
+  "source": "bccea1a1722582cf1cab7d99f9278fa8899661be",
+  "sourcePR": 329,
+  "developmentPR": 328,
+  "features": [
+    "lightweight-user-directory",
+    "paged-recipient-pickers",
+    "preserved-selections-and-message-drafts",
+    "selected-identity-revalidation"
+  ],
+  "cloud": {
+    "source": "bccea1a1722582cf1cab7d99f9278fa8899661be",
+    "status": "Active",
+    "available": "Available",
+    "modifiedAt": "2026-11-11 17:25:02",
+    "settingsPreserved": true,
+    "verifiedRuntimeFiles": 157,
+    "verifiedDependencyFiles": 5899,
+    "dependencyFileSetPreserved": true,
+    "generatedDependencyMetadataOnly": true,
+    "codeSize": 17012048
+  },
+  "files": {
+    "index.html": "151253fc37276ba290feeb39a917e758866860e82511b7f8eeb2dd822c447e5d",
+    "assets/index.browser-CiiU3lSj.js": "6a22bc9ef346c9d7be42187a43e6f13ad3bb34a6a3b01f26bb2fdd329e435be5",
+    "assets/LearningPreview-BK7kgMpA.js": "f009de7f3aa0c8c6b93a136f89397914fa0ff772b76f0bed1b14d87cf8acb2e7",
+    "assets/index-B8rF3L3m.css": "d36eaf1cd03a349beb11c524beef9acebfaab5f9bb32033c97f1bd24933bf9a7",
+    "assets/hls-DEc1BeRd.js": "7402484d115501214bef8d8140b5971af4403ce4bed639b242f19e152c534f80",
+    "assets/tc_vod-Bh__S6VL.js": "b107d523c602e31d315e38766ffc1f853668ab3c8b9ecf20239e16529bdc519b",
+    "assets/index-mde1pmUg.js": "834dd365cce27aacfd18f60e5b68802bbe0eca6389abfe7b1357f291bd1b6623"
+  },
+  "authenticatedProductionAcceptance": "pending"
+}
