@@ -1,0 +1,1 @@
+var e=`ruc-suzhou-sino-french`,t=`ruc-suzhou-smart-governance`,n=e=>e.campusSpaceId||e.id;export{e as n,n as r,t};
