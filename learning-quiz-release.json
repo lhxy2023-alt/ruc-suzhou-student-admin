@@ -32,7 +32,6 @@
     "assets/quizImport-BRfFO5ln.js": "cd03f523cb3cf8b36f7f0109a84dcd8fa9901c24aa24db4c5853bc9832c58dff",
     "assets/LearningPreview-CuxteZuu.js": "6936481a865850610cc469fbe4ce26e0606be9825b46fd2e791a462fedba8e09",
     "assets/productImageTransfer-DQPlX4Fg.js": "2eb7e96412c1bdb5cac18e15a97d31a4c2b8ebd5b26b81c3b50bb21261d33071",
-    ".vite/manifest.json": "c8b40b6645ca7737344b1d8799357189baf6186f2ed567b0c4b3fabdef37b37b",
     "learning/index.html": "c16c5217b1efc1e8080965491c4cd9c9d7b68674d9f969fe2f0f9a79bf1ca491",
     "learning/assets/KaTeX_Script-Regular-D3wIWfF6.woff2": "036d4e95149b69ff9bcc0cd55771efeb25ffa3947293e69acd78d5ac328c684b",
     "learning/assets/KaTeX_AMS-Regular-DRggAlZN.ttf": "68534840bcfdd2bffb6f0e8deb48684dd01e7f04ea2813267577afb906de1d13",
@@ -98,5 +97,8 @@
     "learning/assets/KaTeX_SansSerif-Italic-C3H0VqGB.woff2": "00b26ac825e2095056396e0553b8ac26d3f8ad158c3826e28b4c45b385c4714a",
     "learning/assets/KaTeX_Caligraphic-Bold-ATXxdsX0.ttf": "07d8e303ce4fc12b4bb54f1004170dd190a1f3db45d400fe68060df3e0897268",
     "learning/assets/KaTeX_Typewriter-Regular-C0xS9mPB.woff": "e14fed02b1aba7ce9f5afd5844b5d0321b22351febc720e0de8b8723527609f7"
-  }
+  },
+  "sourceMain": "e28821def9f4f4d22e029300196c3b47404db259",
+  "wechatDevelopmentVersion": "2026.11.12.161218",
+  "fileScope": "public application build files; bundler metadata excluded"
 }
