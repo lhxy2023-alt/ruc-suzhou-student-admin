@@ -1,0 +1,291 @@
+{
+  "../../../../../Desktop/乐湖通小程序/node_modules/@smithy/core/dist-es/submodules/event-streams/index.browser.js": {
+    "file": "assets/index.browser-D-Yd8vuZ.js",
+    "name": "index.browser",
+    "src": "../../../../../Desktop/乐湖通小程序/node_modules/@smithy/core/dist-es/submodules/event-streams/index.browser.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js"
+    ]
+  },
+  "../../../../../Desktop/乐湖通小程序/node_modules/hls.js/dist/hls.mjs": {
+    "file": "assets/hls-DEc1BeRd.js",
+    "name": "hls",
+    "src": "../../../../../Desktop/乐湖通小程序/node_modules/hls.js/dist/hls.mjs",
+    "isDynamicEntry": true
+  },
+  "../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js": {
+    "file": "assets/tc_vod-CBlGQcbZ.js",
+    "name": "tc_vod",
+    "src": "../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html"
+    ],
+    "dynamicImports": [
+      "../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js"
+    ]
+  },
+  "_AdminDrawer-DZ1nk234.js": {
+    "file": "assets/AdminDrawer-DZ1nk234.js",
+    "name": "AdminDrawer",
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "_dist-cG6__cnL.js"
+    ]
+  },
+  "_DateRangeFilter-B661zGsB.js": {
+    "file": "assets/DateRangeFilter-B661zGsB.js",
+    "name": "DateRangeFilter",
+    "imports": [
+      "_api-B4nA6Ivu.js"
+    ]
+  },
+  "_UserDirectory-CbcCy_I_.js": {
+    "file": "assets/UserDirectory-CbcCy_I_.js",
+    "name": "UserDirectory",
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_useListWindow-CHoYN2Fm.js"
+    ]
+  },
+  "_academy-CXgHO2YL.js": {
+    "file": "assets/academy-CXgHO2YL.js",
+    "name": "academy"
+  },
+  "_adminFileTransfer-DJ7_oHO3.js": {
+    "file": "assets/adminFileTransfer-DJ7_oHO3.js",
+    "name": "adminFileTransfer"
+  },
+  "_api-B4nA6Ivu.js": {
+    "file": "assets/api-B4nA6Ivu.js",
+    "name": "api"
+  },
+  "_dist-cG6__cnL.js": {
+    "file": "assets/dist-cG6__cnL.js",
+    "name": "dist",
+    "imports": [
+      "_api-B4nA6Ivu.js"
+    ]
+  },
+  "_learningApi-CPMMg8xH.js": {
+    "file": "assets/learningApi-CPMMg8xH.js",
+    "name": "learningApi",
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "_adminFileTransfer-DJ7_oHO3.js"
+    ]
+  },
+  "_productImageTransfer-DQPlX4Fg.js": {
+    "file": "assets/productImageTransfer-DQPlX4Fg.js",
+    "name": "productImageTransfer"
+  },
+  "_useListWindow-CHoYN2Fm.js": {
+    "file": "assets/useListWindow-CHoYN2Fm.js",
+    "name": "useListWindow",
+    "imports": [
+      "_api-B4nA6Ivu.js"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-dFCFYaJk.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "_dist-cG6__cnL.js"
+    ],
+    "dynamicImports": [
+      "src/AuditView.tsx",
+      "src/SpacesView.tsx",
+      "src/RemindersView.tsx",
+      "src/CoursesView.tsx",
+      "src/LearningView.tsx",
+      "src/AcademiesView.tsx",
+      "src/ClientCopyView.tsx",
+      "src/MessagesView.tsx",
+      "src/ForumView.tsx",
+      "src/CommerceView.tsx",
+      "src/ActivityBannersView.tsx",
+      "src/StaffView.tsx"
+    ],
+    "css": [
+      "assets/index-B6ybgTZg.css"
+    ]
+  },
+  "src/AcademiesView.tsx": {
+    "file": "assets/AcademiesView-BT0EqRFk.js",
+    "name": "AcademiesView",
+    "src": "src/AcademiesView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_academy-CXgHO2YL.js"
+    ]
+  },
+  "src/ActivityBannersView.tsx": {
+    "file": "assets/ActivityBannersView-SPmN1s7C.js",
+    "name": "ActivityBannersView",
+    "src": "src/ActivityBannersView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_academy-CXgHO2YL.js",
+      "_AdminDrawer-DZ1nk234.js",
+      "_productImageTransfer-DQPlX4Fg.js"
+    ]
+  },
+  "src/AuditView.tsx": {
+    "file": "assets/AuditView-Baccu0bj.js",
+    "name": "AuditView",
+    "src": "src/AuditView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_useListWindow-CHoYN2Fm.js",
+      "_DateRangeFilter-B661zGsB.js"
+    ]
+  },
+  "src/ClientCopyView.tsx": {
+    "file": "assets/ClientCopyView-CJV2c1yh.js",
+    "name": "ClientCopyView",
+    "src": "src/ClientCopyView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_academy-CXgHO2YL.js",
+      "_AdminDrawer-DZ1nk234.js"
+    ]
+  },
+  "src/CommerceView.tsx": {
+    "file": "assets/CommerceView-kdOOdnKw.js",
+    "name": "CommerceView",
+    "src": "src/CommerceView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "_dist-cG6__cnL.js",
+      "index.html",
+      "_academy-CXgHO2YL.js",
+      "_AdminDrawer-DZ1nk234.js",
+      "_productImageTransfer-DQPlX4Fg.js",
+      "_useListWindow-CHoYN2Fm.js",
+      "_DateRangeFilter-B661zGsB.js",
+      "_UserDirectory-CbcCy_I_.js"
+    ]
+  },
+  "src/CoursesView.tsx": {
+    "file": "assets/CoursesView-pBbFgxEM.js",
+    "name": "CoursesView",
+    "src": "src/CoursesView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_AdminDrawer-DZ1nk234.js",
+      "_useListWindow-CHoYN2Fm.js",
+      "_adminFileTransfer-DJ7_oHO3.js"
+    ]
+  },
+  "src/ForumView.tsx": {
+    "file": "assets/ForumView-Bc7Sc2OC.js",
+    "name": "ForumView",
+    "src": "src/ForumView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "_dist-cG6__cnL.js",
+      "index.html",
+      "_academy-CXgHO2YL.js",
+      "_UserDirectory-CbcCy_I_.js"
+    ]
+  },
+  "src/LearningPreview.tsx": {
+    "file": "assets/LearningPreview-BHkNn136.js",
+    "name": "LearningPreview",
+    "src": "src/LearningPreview.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_AdminDrawer-DZ1nk234.js",
+      "_learningApi-CPMMg8xH.js"
+    ],
+    "dynamicImports": [
+      "../../../../../Desktop/乐湖通小程序/node_modules/hls.js/dist/hls.mjs"
+    ]
+  },
+  "src/LearningView.tsx": {
+    "file": "assets/LearningView-BnKbX0b7.js",
+    "name": "LearningView",
+    "src": "src/LearningView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_AdminDrawer-DZ1nk234.js",
+      "_adminFileTransfer-DJ7_oHO3.js",
+      "_learningApi-CPMMg8xH.js"
+    ],
+    "dynamicImports": [
+      "../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js",
+      "src/LearningPreview.tsx"
+    ]
+  },
+  "src/MessagesView.tsx": {
+    "file": "assets/MessagesView-BM_AqnFA.js",
+    "name": "MessagesView",
+    "src": "src/MessagesView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_useListWindow-CHoYN2Fm.js",
+      "_UserDirectory-CbcCy_I_.js",
+      "_adminFileTransfer-DJ7_oHO3.js"
+    ]
+  },
+  "src/RemindersView.tsx": {
+    "file": "assets/RemindersView-DzpVZm8x.js",
+    "name": "RemindersView",
+    "src": "src/RemindersView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_useListWindow-CHoYN2Fm.js"
+    ]
+  },
+  "src/SpacesView.tsx": {
+    "file": "assets/SpacesView-vhzBDRrm.js",
+    "name": "SpacesView",
+    "src": "src/SpacesView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "index.html",
+      "_useListWindow-CHoYN2Fm.js",
+      "_DateRangeFilter-B661zGsB.js",
+      "_UserDirectory-CbcCy_I_.js",
+      "_adminFileTransfer-DJ7_oHO3.js"
+    ]
+  },
+  "src/StaffView.tsx": {
+    "file": "assets/StaffView-D9frqS1G.js",
+    "name": "StaffView",
+    "src": "src/StaffView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_api-B4nA6Ivu.js",
+      "_dist-cG6__cnL.js",
+      "index.html"
+    ]
+  }
+}
