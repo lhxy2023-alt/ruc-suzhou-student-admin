@@ -1,0 +1,24 @@
+{
+  "sourceCommit": "623cafa640f2dbbfb8e2d0535e8e237a893b3434",
+  "sourcePRs": [
+    366,
+    367,
+    368,
+    369,
+    370
+  ],
+  "builtAt": "2026-11-12T05:38:05.865584+00:00",
+  "browserTests": {
+    "passed": 20,
+    "total": 20
+  },
+  "priorTargetedTests": 191,
+  "releaseOrder": [
+    "indexes",
+    "cloud-function",
+    "admin",
+    "wechat-development-upload",
+    "wechat-experience-selection"
+  ],
+  "historicalFilesPreserved": 386
+}
