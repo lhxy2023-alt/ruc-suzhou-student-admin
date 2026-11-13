@@ -1,6 +1,6 @@
 {
   "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/@smithy/core/dist-es/submodules/event-streams/index.browser.js": {
-    "file": "assets/index.browser-CFLlT6Yq.js",
+    "file": "assets/index.browser-CAqTx6_J.js",
     "name": "index.browser",
     "src": "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/@smithy/core/dist-es/submodules/event-streams/index.browser.js",
     "isDynamicEntry": true,
@@ -15,7 +15,7 @@
     "isDynamicEntry": true
   },
   "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js": {
-    "file": "assets/tc_vod-DsF6HhkD.js",
+    "file": "assets/tc_vod-D6Q9bL51.js",
     "name": "tc_vod",
     "src": "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js",
     "isDynamicEntry": true,
@@ -42,14 +42,14 @@
       "_api-XytLR2wh.js"
     ]
   },
-  "_UserDirectory-DLnNykQI.js": {
-    "file": "assets/UserDirectory-DLnNykQI.js",
+  "_UserDirectory-BsERN67L.js": {
+    "file": "assets/UserDirectory-BsERN67L.js",
     "name": "UserDirectory",
     "imports": [
       "_api-XytLR2wh.js",
       "index.html",
       "_useListWindow-DtAUAs5N.js",
-      "_useUserDirectory-Dsd_Mdao.js"
+      "_useUserDirectory-CbX4dPBo.js"
     ]
   },
   "_academy-CXgHO2YL.js": {
@@ -82,8 +82,8 @@
       "_api-XytLR2wh.js"
     ]
   },
-  "_useUserDirectory-Dsd_Mdao.js": {
-    "file": "assets/useUserDirectory-Dsd_Mdao.js",
+  "_useUserDirectory-CbX4dPBo.js": {
+    "file": "assets/useUserDirectory-CbX4dPBo.js",
     "name": "useUserDirectory",
     "imports": [
       "_api-XytLR2wh.js",
@@ -91,7 +91,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-FvPuq90O.js",
+    "file": "assets/index-B0ELBRO_.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -114,11 +114,11 @@
       "src/StaffView.tsx"
     ],
     "css": [
-      "assets/index-DhDrkIpK.css"
+      "assets/index-DdKFK6TE.css"
     ]
   },
   "src/AcademiesView.tsx": {
-    "file": "assets/AcademiesView-B3u9fisb.js",
+    "file": "assets/AcademiesView-5N1a7inL.js",
     "name": "AcademiesView",
     "src": "src/AcademiesView.tsx",
     "isDynamicEntry": true,
@@ -129,7 +129,7 @@
     ]
   },
   "src/ActivityBannersView.tsx": {
-    "file": "assets/ActivityBannersView-CCCc7AYK.js",
+    "file": "assets/ActivityBannersView--FqVPhnN.js",
     "name": "ActivityBannersView",
     "src": "src/ActivityBannersView.tsx",
     "isDynamicEntry": true,
@@ -142,7 +142,7 @@
     ]
   },
   "src/AuditView.tsx": {
-    "file": "assets/AuditView-BBo5b2oB.js",
+    "file": "assets/AuditView-mUt4BQNO.js",
     "name": "AuditView",
     "src": "src/AuditView.tsx",
     "isDynamicEntry": true,
@@ -154,7 +154,7 @@
     ]
   },
   "src/ClientCopyView.tsx": {
-    "file": "assets/ClientCopyView-Cm3Sp2HI.js",
+    "file": "assets/ClientCopyView-Crp603uv.js",
     "name": "ClientCopyView",
     "src": "src/ClientCopyView.tsx",
     "isDynamicEntry": true,
@@ -166,7 +166,7 @@
     ]
   },
   "src/CommerceView.tsx": {
-    "file": "assets/CommerceView-CHgKYNwm.js",
+    "file": "assets/CommerceView-CajFyAfu.js",
     "name": "CommerceView",
     "src": "src/CommerceView.tsx",
     "isDynamicEntry": true,
@@ -179,12 +179,12 @@
       "_productImageTransfer-DQPlX4Fg.js",
       "_useListWindow-DtAUAs5N.js",
       "_DateRangeFilter-BwNMzSR6.js",
-      "_useUserDirectory-Dsd_Mdao.js",
-      "_UserDirectory-DLnNykQI.js"
+      "_useUserDirectory-CbX4dPBo.js",
+      "_UserDirectory-BsERN67L.js"
     ]
   },
   "src/CoursesView.tsx": {
-    "file": "assets/CoursesView-Diy08eMb.js",
+    "file": "assets/CoursesView-DqBN3KHl.js",
     "name": "CoursesView",
     "src": "src/CoursesView.tsx",
     "isDynamicEntry": true,
@@ -196,7 +196,7 @@
     ]
   },
   "src/ForumView.tsx": {
-    "file": "assets/ForumView-BmBu6ZUa.js",
+    "file": "assets/ForumView-oK9a-wi-.js",
     "name": "ForumView",
     "src": "src/ForumView.tsx",
     "isDynamicEntry": true,
@@ -205,11 +205,11 @@
       "_dist-BDRft1_1.js",
       "index.html",
       "_academy-CXgHO2YL.js",
-      "_UserDirectory-DLnNykQI.js"
+      "_UserDirectory-BsERN67L.js"
     ]
   },
   "src/LearningPreview.tsx": {
-    "file": "assets/LearningPreview-BBlCGtOF.js",
+    "file": "assets/LearningPreview-DR1Y4ye8.js",
     "name": "LearningPreview",
     "src": "src/LearningPreview.tsx",
     "isDynamicEntry": true,
@@ -223,7 +223,7 @@
     ]
   },
   "src/LearningQuizEditor.tsx": {
-    "file": "assets/LearningQuizEditor-BpFA-PKv.js",
+    "file": "assets/LearningQuizEditor-B9AtzHDQ.js",
     "name": "LearningQuizEditor",
     "src": "src/LearningQuizEditor.tsx",
     "isDynamicEntry": true,
@@ -235,7 +235,7 @@
     ]
   },
   "src/LearningView.tsx": {
-    "file": "assets/LearningView-cOHNSUUG.js",
+    "file": "assets/LearningView-3VZea7jd.js",
     "name": "LearningView",
     "src": "src/LearningView.tsx",
     "isDynamicEntry": true,
@@ -243,7 +243,7 @@
       "_api-XytLR2wh.js",
       "index.html",
       "_AdminDrawer-BBZ-pd2Y.js",
-      "_useUserDirectory-Dsd_Mdao.js",
+      "_useUserDirectory-CbX4dPBo.js",
       "_quizImport-BRfFO5ln.js"
     ],
     "dynamicImports": [
@@ -253,7 +253,7 @@
     ]
   },
   "src/MessagesView.tsx": {
-    "file": "assets/MessagesView-DalfUXrj.js",
+    "file": "assets/MessagesView-CbJItA98.js",
     "name": "MessagesView",
     "src": "src/MessagesView.tsx",
     "isDynamicEntry": true,
@@ -261,12 +261,12 @@
       "_api-XytLR2wh.js",
       "index.html",
       "_useListWindow-DtAUAs5N.js",
-      "_useUserDirectory-Dsd_Mdao.js",
-      "_UserDirectory-DLnNykQI.js"
+      "_useUserDirectory-CbX4dPBo.js",
+      "_UserDirectory-BsERN67L.js"
     ]
   },
   "src/RemindersView.tsx": {
-    "file": "assets/RemindersView-VcMAC4qk.js",
+    "file": "assets/RemindersView-D9VqC3xE.js",
     "name": "RemindersView",
     "src": "src/RemindersView.tsx",
     "isDynamicEntry": true,
@@ -277,7 +277,7 @@
     ]
   },
   "src/SpacesView.tsx": {
-    "file": "assets/SpacesView-CvtssO_S.js",
+    "file": "assets/SpacesView-DJxn_PyR.js",
     "name": "SpacesView",
     "src": "src/SpacesView.tsx",
     "isDynamicEntry": true,
@@ -286,11 +286,11 @@
       "index.html",
       "_useListWindow-DtAUAs5N.js",
       "_DateRangeFilter-BwNMzSR6.js",
-      "_UserDirectory-DLnNykQI.js"
+      "_UserDirectory-BsERN67L.js"
     ]
   },
   "src/StaffView.tsx": {
-    "file": "assets/StaffView-3jIInlct.js",
+    "file": "assets/StaffView-DRmeOsMG.js",
     "name": "StaffView",
     "src": "src/StaffView.tsx",
     "isDynamicEntry": true,

@@ -1,5 +1,9 @@
 # 乐湖通管理后台
 
+## 后台账号选择统一（2026-11-14）
+
+源码 [2ebb339](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/2ebb339a2b01274c70c10e62d42c093b8c316a82)。班级负责人、论坛禁言账号改为单个可搜索选择框，与课程选择共用交互，保留分页、账号可选范围和已选身份。后台其他复选框已按页面采样复核。核验见 `form-consistency-release.json`。
+
 ## 复选框与课程选择（2026-11-14）
 
 源码 [afa6a78](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/afa6a78875a23b35add20747607348a683443d54)。复选框保持紧凑尺寸并与文字同行；商品交付和学生开课使用单个可搜索课程选择框。支持键盘选择、读取重试及迟到响应隔离，既有授权和交易规则保留。核验见 `checkbox-course-picker-release.json`。
