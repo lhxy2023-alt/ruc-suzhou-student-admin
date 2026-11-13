@@ -1,30 +1,30 @@
 {
-  "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/@smithy/core/dist-es/submodules/event-streams/index.browser.js": {
-    "file": "assets/index.browser-CAqTx6_J.js",
+  "../../../../../../../Desktop/乐湖通小程序/node_modules/@smithy/core/dist-es/submodules/event-streams/index.browser.js": {
+    "file": "assets/index.browser-C7_5hGG0.js",
     "name": "index.browser",
-    "src": "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/@smithy/core/dist-es/submodules/event-streams/index.browser.js",
+    "src": "../../../../../../../Desktop/乐湖通小程序/node_modules/@smithy/core/dist-es/submodules/event-streams/index.browser.js",
     "isDynamicEntry": true,
     "imports": [
-      "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js"
+      "../../../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js"
     ]
   },
-  "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/hls.js/dist/hls.mjs": {
+  "../../../../../../../Desktop/乐湖通小程序/node_modules/hls.js/dist/hls.mjs": {
     "file": "assets/hls-DEc1BeRd.js",
     "name": "hls",
-    "src": "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/hls.js/dist/hls.mjs",
+    "src": "../../../../../../../Desktop/乐湖通小程序/node_modules/hls.js/dist/hls.mjs",
     "isDynamicEntry": true
   },
-  "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js": {
-    "file": "assets/tc_vod-D6Q9bL51.js",
+  "../../../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js": {
+    "file": "assets/tc_vod-BUC-p1uT.js",
     "name": "tc_vod",
-    "src": "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js",
+    "src": "../../../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js",
     "isDynamicEntry": true,
     "imports": [
       "_api-XytLR2wh.js",
       "index.html"
     ],
     "dynamicImports": [
-      "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js"
+      "../../../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js"
     ]
   },
   "_AdminDrawer-BBZ-pd2Y.js": {
@@ -42,14 +42,14 @@
       "_api-XytLR2wh.js"
     ]
   },
-  "_UserDirectory-BsERN67L.js": {
-    "file": "assets/UserDirectory-BsERN67L.js",
+  "_UserDirectory-CQeRqJ7y.js": {
+    "file": "assets/UserDirectory-CQeRqJ7y.js",
     "name": "UserDirectory",
     "imports": [
       "_api-XytLR2wh.js",
       "index.html",
       "_useListWindow-DtAUAs5N.js",
-      "_useUserDirectory-CbX4dPBo.js"
+      "_useUserDirectory-Vs1gq1pp.js"
     ]
   },
   "_academy-CXgHO2YL.js": {
@@ -82,8 +82,8 @@
       "_api-XytLR2wh.js"
     ]
   },
-  "_useUserDirectory-CbX4dPBo.js": {
-    "file": "assets/useUserDirectory-CbX4dPBo.js",
+  "_useUserDirectory-Vs1gq1pp.js": {
+    "file": "assets/useUserDirectory-Vs1gq1pp.js",
     "name": "useUserDirectory",
     "imports": [
       "_api-XytLR2wh.js",
@@ -91,7 +91,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-B0ELBRO_.js",
+    "file": "assets/index-DS4yEzgr.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -118,7 +118,7 @@
     ]
   },
   "src/AcademiesView.tsx": {
-    "file": "assets/AcademiesView-5N1a7inL.js",
+    "file": "assets/AcademiesView-0hlBtxTs.js",
     "name": "AcademiesView",
     "src": "src/AcademiesView.tsx",
     "isDynamicEntry": true,
@@ -129,7 +129,7 @@
     ]
   },
   "src/ActivityBannersView.tsx": {
-    "file": "assets/ActivityBannersView--FqVPhnN.js",
+    "file": "assets/ActivityBannersView-Cln22Htt.js",
     "name": "ActivityBannersView",
     "src": "src/ActivityBannersView.tsx",
     "isDynamicEntry": true,
@@ -142,7 +142,7 @@
     ]
   },
   "src/AuditView.tsx": {
-    "file": "assets/AuditView-mUt4BQNO.js",
+    "file": "assets/AuditView-DtO-TuZZ.js",
     "name": "AuditView",
     "src": "src/AuditView.tsx",
     "isDynamicEntry": true,
@@ -154,7 +154,7 @@
     ]
   },
   "src/ClientCopyView.tsx": {
-    "file": "assets/ClientCopyView-Crp603uv.js",
+    "file": "assets/ClientCopyView-BogrGM69.js",
     "name": "ClientCopyView",
     "src": "src/ClientCopyView.tsx",
     "isDynamicEntry": true,
@@ -166,7 +166,7 @@
     ]
   },
   "src/CommerceView.tsx": {
-    "file": "assets/CommerceView-CajFyAfu.js",
+    "file": "assets/CommerceView-DE1gK-Et.js",
     "name": "CommerceView",
     "src": "src/CommerceView.tsx",
     "isDynamicEntry": true,
@@ -179,12 +179,12 @@
       "_productImageTransfer-DQPlX4Fg.js",
       "_useListWindow-DtAUAs5N.js",
       "_DateRangeFilter-BwNMzSR6.js",
-      "_useUserDirectory-CbX4dPBo.js",
-      "_UserDirectory-BsERN67L.js"
+      "_useUserDirectory-Vs1gq1pp.js",
+      "_UserDirectory-CQeRqJ7y.js"
     ]
   },
   "src/CoursesView.tsx": {
-    "file": "assets/CoursesView-DqBN3KHl.js",
+    "file": "assets/CoursesView-DN6BM3S1.js",
     "name": "CoursesView",
     "src": "src/CoursesView.tsx",
     "isDynamicEntry": true,
@@ -196,7 +196,7 @@
     ]
   },
   "src/ForumView.tsx": {
-    "file": "assets/ForumView-oK9a-wi-.js",
+    "file": "assets/ForumView-VJGs_VwV.js",
     "name": "ForumView",
     "src": "src/ForumView.tsx",
     "isDynamicEntry": true,
@@ -205,11 +205,11 @@
       "_dist-BDRft1_1.js",
       "index.html",
       "_academy-CXgHO2YL.js",
-      "_UserDirectory-BsERN67L.js"
+      "_UserDirectory-CQeRqJ7y.js"
     ]
   },
   "src/LearningPreview.tsx": {
-    "file": "assets/LearningPreview-DR1Y4ye8.js",
+    "file": "assets/LearningPreview-00mDfHn3.js",
     "name": "LearningPreview",
     "src": "src/LearningPreview.tsx",
     "isDynamicEntry": true,
@@ -219,11 +219,11 @@
       "_AdminDrawer-BBZ-pd2Y.js"
     ],
     "dynamicImports": [
-      "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/hls.js/dist/hls.mjs"
+      "../../../../../../../Desktop/乐湖通小程序/node_modules/hls.js/dist/hls.mjs"
     ]
   },
   "src/LearningQuizEditor.tsx": {
-    "file": "assets/LearningQuizEditor-B9AtzHDQ.js",
+    "file": "assets/LearningQuizEditor-DyX0QfhL.js",
     "name": "LearningQuizEditor",
     "src": "src/LearningQuizEditor.tsx",
     "isDynamicEntry": true,
@@ -235,7 +235,7 @@
     ]
   },
   "src/LearningView.tsx": {
-    "file": "assets/LearningView-3VZea7jd.js",
+    "file": "assets/LearningView-DMu64XT7.js",
     "name": "LearningView",
     "src": "src/LearningView.tsx",
     "isDynamicEntry": true,
@@ -243,17 +243,17 @@
       "_api-XytLR2wh.js",
       "index.html",
       "_AdminDrawer-BBZ-pd2Y.js",
-      "_useUserDirectory-CbX4dPBo.js",
+      "_useUserDirectory-Vs1gq1pp.js",
       "_quizImport-BRfFO5ln.js"
     ],
     "dynamicImports": [
-      "../../../../Users/taofangzheng/Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js",
+      "../../../../../../../Desktop/乐湖通小程序/node_modules/vod-js-sdk-v6/lib/src/tc_vod.js",
       "src/LearningQuizEditor.tsx",
       "src/LearningPreview.tsx"
     ]
   },
   "src/MessagesView.tsx": {
-    "file": "assets/MessagesView-CbJItA98.js",
+    "file": "assets/MessagesView-D9kHf5GB.js",
     "name": "MessagesView",
     "src": "src/MessagesView.tsx",
     "isDynamicEntry": true,
@@ -261,12 +261,12 @@
       "_api-XytLR2wh.js",
       "index.html",
       "_useListWindow-DtAUAs5N.js",
-      "_useUserDirectory-CbX4dPBo.js",
-      "_UserDirectory-BsERN67L.js"
+      "_useUserDirectory-Vs1gq1pp.js",
+      "_UserDirectory-CQeRqJ7y.js"
     ]
   },
   "src/RemindersView.tsx": {
-    "file": "assets/RemindersView-D9VqC3xE.js",
+    "file": "assets/RemindersView-Bw6pFjZv.js",
     "name": "RemindersView",
     "src": "src/RemindersView.tsx",
     "isDynamicEntry": true,
@@ -277,7 +277,7 @@
     ]
   },
   "src/SpacesView.tsx": {
-    "file": "assets/SpacesView-DJxn_PyR.js",
+    "file": "assets/SpacesView-BFY6APfW.js",
     "name": "SpacesView",
     "src": "src/SpacesView.tsx",
     "isDynamicEntry": true,
@@ -286,11 +286,11 @@
       "index.html",
       "_useListWindow-DtAUAs5N.js",
       "_DateRangeFilter-BwNMzSR6.js",
-      "_UserDirectory-BsERN67L.js"
+      "_UserDirectory-CQeRqJ7y.js"
     ]
   },
   "src/StaffView.tsx": {
-    "file": "assets/StaffView-DRmeOsMG.js",
+    "file": "assets/StaffView--s8oz1_p.js",
     "name": "StaffView",
     "src": "src/StaffView.tsx",
     "isDynamicEntry": true,
