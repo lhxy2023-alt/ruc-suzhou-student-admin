@@ -1,0 +1,1 @@
+import{f as e,p as t,v as n}from"./api-XytLR2wh.js";var r=n(t(),1),i=e(),a=100;function o(e,t,n){let[o,s]=(0,r.useState)({key:t,size:a}),c=o.key===t?o.size:a,l=e.length>c?(0,i.jsxs)(`button`,{type:`button`,className:`admin-button admin-list-more`,onClick:()=>s({key:t,size:c+a}),children:[`显示更多`,n,`（`,c,`/`,e.length,`）`]}):null;return{rows:e.slice(0,c),more:l}}export{o as t};
