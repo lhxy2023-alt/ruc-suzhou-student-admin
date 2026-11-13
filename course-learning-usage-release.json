@@ -1,0 +1,15 @@
+{
+  "source": "cf9b346670f9244c885d6f7b2148bb6795f1fde6",
+  "sourcePrs": [
+    403,
+    404,
+    406
+  ],
+  "features": [
+    "course-usage",
+    "file-outcomes",
+    "video-watch-coverage",
+    "handouts",
+    "student-learning-records"
+  ]
+}
