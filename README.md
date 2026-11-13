@@ -1,5 +1,9 @@
 # 乐湖通管理后台
 
+## 购买异常恢复（2026-11-14）
+
+源码 [ec33888](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/ec33888373e4e12c8551b20ac5cc2c0b6620630c)。订单支持待核对/退款筛选；结束购买后迟到付款按现金退款处理，明确原币与卡券已释放，避免重复退币。
+
 ## 后台账号选择统一（2026-11-14）
 
 源码 [2ebb339](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/2ebb339a2b01274c70c10e62d42c093b8c316a82)。班级负责人、论坛禁言账号改为单个可搜索选择框，与课程选择共用交互，保留分页、账号可选范围和已选身份。后台其他复选框已按页面采样复核。核验见 `form-consistency-release.json`。
