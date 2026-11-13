@@ -1,5 +1,9 @@
 # 乐湖通管理后台
 
+## 复选框与课程选择（2026-11-14）
+
+源码 [afa6a78](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/afa6a78875a23b35add20747607348a683443d54)。复选框保持紧凑尺寸并与文字同行；商品交付和学生开课使用单个可搜索课程选择框。支持键盘选择、读取重试及迟到响应隔离，既有授权和交易规则保留。核验见 `checkbox-course-picker-release.json`。
+
 ## 商城交付与学生档案（2026-11-14）
 
 源码 [5bd806b](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/5bd806bb41edd31668f73e74be7093f83f08c853)。商品可配置自动开课和资料链接；学生档案使用独立页面，按需查看授权、购买订单、论坛和下载记录。退款必须人工审核，现金由管理员在支付平台操作后核对到账。校验见 `commerce-dossier-release.json`。既有静态资源与学习网页保留。
