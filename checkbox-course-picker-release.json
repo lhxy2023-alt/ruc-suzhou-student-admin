@@ -1,0 +1,50 @@
+{
+  "source": "afa6a78875a23b35add20747607348a683443d54",
+  "sourcePR": 400,
+  "scope": "admin only",
+  "adminUrl": "https://lhxy2023-alt.github.io/ruc-suzhou-student-admin/",
+  "cloudDeployment": "unchanged; no cloud deployment required",
+  "features": [
+    "16px checkboxes aligned with their labels",
+    "single searchable course selector in product delivery and student grants",
+    "keyboard selection, retry and obsolete response isolation"
+  ],
+  "validation": {
+    "adminBuild": "passed in clean tracked-source worktree",
+    "browserRegression": 14,
+    "finalSharedStyleRegression": 3,
+    "syntheticInteractionChecks": "search, keyboard, empty results, retry, stale responses, selection retention, chapter limits, 375px layout, student grants"
+  },
+  "files": {
+    "assets/AcademiesView-B3u9fisb.js": "8c6c99e2e4d3080f91044c9ace5c1395ccc4e39196f56787e6a19809767afa3e",
+    "assets/ActivityBannersView-CCCc7AYK.js": "7e80804af0b097d30616b62d760c7f56519cb319a86274b0a2c49c4cf8d58eaa",
+    "assets/AdminDrawer-BBZ-pd2Y.js": "aa541d5554f7f0d12e3d05edca0d33eb07e0ea7f9b28ef34fe134b19e8e14841",
+    "assets/AuditView-BBo5b2oB.js": "606710c6bad0796c3094420b33039f5213140d7df00b029c399ab0488c16470f",
+    "assets/ClientCopyView-Cm3Sp2HI.js": "9d3098bb7556ec86bd312e390be20b05286c7177eee797cb60b554deb7236565",
+    "assets/CommerceView-CHgKYNwm.js": "69d97c75164d26c6d4eccb25b875631dd16ff802bbd585c5671e546404c30720",
+    "assets/CoursesView-Diy08eMb.js": "d7eea10fd6b0ca44fa35566a2131e727e3a3ed2caf3cb736bf8dcbfc80fa9071",
+    "assets/DateRangeFilter-BwNMzSR6.js": "dcfdd0a456b5d8d1802f6089b96d9e87fdd59046155a6afe9a3726cbecc9a9af",
+    "assets/ForumView-BmBu6ZUa.js": "0115f14eb4eb4c5cac00518fc6352afceebeb6207d7c7e5a171e78465a8f5d06",
+    "assets/LearningPreview-BBlCGtOF.js": "db6b3db5c946b3c664e34e7ce608ee2ed3246fea661249e028d3cd5da8cc22cb",
+    "assets/LearningQuizEditor-BpFA-PKv.js": "71be998e60ea83655f31ab234d937e8d56425eeccb42d6b9c716142778619c27",
+    "assets/LearningView-cOHNSUUG.js": "cfa957211b8fc60d72829512f5a8f423527fc8c629351361d4c1d628e4fcb4d0",
+    "assets/MessagesView-DalfUXrj.js": "e2dfba5c48644e8894662d514c7e255eaf77002c3dafc1f7ffc6300c7b4b52fb",
+    "assets/RemindersView-VcMAC4qk.js": "a93122b32ae3b6375ecebce5d6b1f75a5c608b5efd9c96853d426a3e1b9115ac",
+    "assets/SpacesView-CvtssO_S.js": "b586bd86ac7e1660d8b4fb6cd94cb2820a1a57dbb55ff5c7b5de0d9963c6eb12",
+    "assets/StaffView-3jIInlct.js": "9ca6a34faac4398412a11903fd9ff4145db37849472156b0a8556dabf0c49afa",
+    "assets/UserDirectory-DLnNykQI.js": "fb8aa2b9493405333739239e1063e3c6b3bcee581272ce8ad31928d54a2e6383",
+    "assets/academy-CXgHO2YL.js": "451093f5b2c891a829e21387a0528d5653c55ee599ef47fdec7e4c33d402bdaf",
+    "assets/api-XytLR2wh.js": "00c3be7fc1dafe7b95b3fa08788f5259a7747909b087940b7ccc322750298502",
+    "assets/dist-BDRft1_1.js": "4f4908a8a468e1b152016bb60d1988a7b67321f370c990235cb24c00d693fe9a",
+    "assets/hls-DEc1BeRd.js": "7402484d115501214bef8d8140b5971af4403ce4bed639b242f19e152c534f80",
+    "assets/index-DhDrkIpK.css": "5299f9cf08d056351397c2bb71706478573742130b52dac98106e7dfef4099b4",
+    "assets/index-FvPuq90O.js": "87c9049f5d234089fa912e3e1bd5f348befeb473329c92507f1715bb58f78f3d",
+    "assets/index.browser-CFLlT6Yq.js": "4032d9df982e9f8a6a8e3d8c7c2347e9f99316176657b5a1d921dd189944ea4e",
+    "assets/productImageTransfer-DQPlX4Fg.js": "2eb7e96412c1bdb5cac18e15a97d31a4c2b8ebd5b26b81c3b50bb21261d33071",
+    "assets/quizImport-BRfFO5ln.js": "cd03f523cb3cf8b36f7f0109a84dcd8fa9901c24aa24db4c5853bc9832c58dff",
+    "assets/tc_vod-DsF6HhkD.js": "5e390a687f1222bc2f3f7fcf8767dc6442230303b73257cc9c064df0307817e3",
+    "assets/useListWindow-DtAUAs5N.js": "8450ed8a6e24eb66930c1601375070e06092ac2c278b863e52c21714cf05d5b3",
+    "assets/useUserDirectory-Dsd_Mdao.js": "7fc2abd55b31c2d759014dff5c1327b6c444c99f4dde3fe5512b6462c5b8d9bb",
+    "index.html": "5116267f4c682d5bd703fb9d28041cafc3c6d44c146a315ba4cd5bc0e69e80b3"
+  }
+}
