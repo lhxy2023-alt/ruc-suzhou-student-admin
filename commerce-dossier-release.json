@@ -1,131 +1,130 @@
 {
-  "source": "927fc67ba406932239fe6559fb06dbd95047aa82",
-  "sourcePr": 396,
+  "source": "5bd806bb41edd31668f73e74be7093f83f08c853",
+  "sourcePr": 397,
   "files": [
     {
-      "path": "index.html",
-      "sha256": "470ad18124ddf57356bed044c67ff96c2714047294ff372e42c170202be641bb"
+      "path": ".vite/manifest.json",
+      "sha256": "b5b1b0129ab8dbc3795dc3d3cbe95446315b2573dafb2f1b96eca91ce0c43cfc"
     },
     {
-      "path": "assets/LearningPreview-DCjElPh1.js",
-      "sha256": "063d12c3fa254cb9f286df544a068586ec30d513fa71119aba79aeec43272537"
+      "path": "assets/AcademiesView-rZyPjKtV.js",
+      "sha256": "e8251a95924d3dc5dfe44dba26d7b61f546a9dcfb49059e7c66004c74522ab7b"
     },
     {
-      "path": "assets/LearningView-ak_Psbdb.js",
-      "sha256": "fac4231902003f639ab04584104b0ebea042533f01cd8947e460e11b9455dc78"
-    },
-    {
-      "path": "assets/academy-CXgHO2YL.js",
-      "sha256": "451093f5b2c891a829e21387a0528d5653c55ee599ef47fdec7e4c33d402bdaf"
-    },
-    {
-      "path": "assets/ClientCopyView-DF6auHEM.js",
-      "sha256": "69eaf9caf7df290e55aff3273b1354c9a534549047e25576e7be1b5961ec8391"
+      "path": "assets/ActivityBannersView-DFzF1z-q.js",
+      "sha256": "e036b628867be361e138b8ffc67adf034d9cab539a3f16059d05d76f669c8a38"
     },
     {
       "path": "assets/AdminDrawer-BBZ-pd2Y.js",
       "sha256": "aa541d5554f7f0d12e3d05edca0d33eb07e0ea7f9b28ef34fe134b19e8e14841"
     },
     {
+      "path": "assets/AuditView-BUXDITsq.js",
+      "sha256": "56967498dc473fcc009e067bcb033bf527f5376c74183cd4e0cd8ee5f7742706"
+    },
+    {
+      "path": "assets/ClientCopyView-CUFzvcTA.js",
+      "sha256": "1976115b15b12efe23ba5d8360ebb7b6ae04a6abe44c6fd1ac9c0169e4112d99"
+    },
+    {
+      "path": "assets/CommerceView-BhS_hJgJ.js",
+      "sha256": "659277e6f254f0a7a123a1dd8e7bdd4c0fe6bd16cdc10986cec6d3eaaf068c5b"
+    },
+    {
+      "path": "assets/CoursesView-DI98BQO-.js",
+      "sha256": "7eb3f91425d4d6115f529222b21ef80d7d862cd9cb52a2aa4f706c032c23748f"
+    },
+    {
       "path": "assets/DateRangeFilter-BwNMzSR6.js",
       "sha256": "dcfdd0a456b5d8d1802f6089b96d9e87fdd59046155a6afe9a3726cbecc9a9af"
     },
     {
-      "path": "assets/useListWindow-DtAUAs5N.js",
-      "sha256": "8450ed8a6e24eb66930c1601375070e06092ac2c278b863e52c21714cf05d5b3"
+      "path": "assets/ForumView-B8HhjkPp.js",
+      "sha256": "8f3697e31fdf87a970f519e2d7fba92638b5f4e3c0563535c3c4c9aff05c382e"
     },
     {
-      "path": "assets/index.browser-CNBlatI4.js",
-      "sha256": "f1069cb3c9c5223100f10a730e6dd92a5b2154446cdd33138acfdce7b3e0df41"
+      "path": "assets/LearningPreview-B4w2pmkO.js",
+      "sha256": "bdc6e1ad3c877a8660d31e3c62b4c1ef692977c848f525772947ede1b6a50944"
     },
     {
-      "path": "assets/ForumView-vdsJt3YL.js",
-      "sha256": "ce6a86880829ed339f3b20efadb04846572acc85ba3e16aa0045ef7fb4a92ea5"
+      "path": "assets/LearningQuizEditor-IIbQgCz2.js",
+      "sha256": "185ebfa75719a8248cb8e25d729a609c3be751a83ac96527c28c63a63747651f"
     },
     {
-      "path": "assets/AuditView-Bv4YAkgS.js",
-      "sha256": "1e1fbecf46b3b5a0fa427e06d5cd627b53c59f0eecf6d9e0c82d1349d3ce0516"
+      "path": "assets/LearningView-DLdJN1FD.js",
+      "sha256": "11e0f0fab8bd79cee906720cda619d109a620a228dc9d25b6f0578ff8011d3cd"
     },
     {
-      "path": "assets/CoursesView-BFNLn9ju.js",
-      "sha256": "3df039623f2ab49c4f32f27335782fbce9374e612956a2111b5d12edbaad3412"
+      "path": "assets/MessagesView-CfbZPgdM.js",
+      "sha256": "34afaf3dfedcf8acb8ee76c5a1930a9ca11ca37fa0d1bca819563f32aac793ee"
     },
     {
-      "path": "assets/tc_vod-KAqMtsBC.js",
-      "sha256": "d2318b2d3efa46b103e7cfdddf54d4630fc597b29103b8d9e9bd9ad0414741a2"
+      "path": "assets/RemindersView-DVkRikdQ.js",
+      "sha256": "735d3238a0b2671066f641e20c57f9cdb38a57d20c48f94a330e10d1c3af4609"
     },
     {
-      "path": "assets/hls-DEc1BeRd.js",
-      "sha256": "7402484d115501214bef8d8140b5971af4403ce4bed639b242f19e152c534f80"
+      "path": "assets/SpacesView-DoL0J6sJ.js",
+      "sha256": "cc260d3209f61ec30eaba0158d37a85418045e870136d679f59dc9ff0c015d87"
     },
     {
-      "path": "assets/CommerceView-BVlQIaYO.js",
-      "sha256": "e979804b04ad51a5aa2878bbaf44a417c3f79671aa810a8c8dc126943bde384f"
+      "path": "assets/StaffView-Dif_eyPR.js",
+      "sha256": "ce9cdd7faa3b96677413b1998aaee684c5e81bf22a62c2d68b0736f50bf3739e"
     },
     {
-      "path": "assets/MessagesView-CORuig9O.js",
-      "sha256": "e530c49a5899c8fb514cae085959c8a79a05e1d6cef6a29ff263f96774e4884d"
+      "path": "assets/UserDirectory-rgX5rlFz.js",
+      "sha256": "6e7929c40004264b6e841be5834639e6657fed837450fd22d57092d1670f8bef"
     },
     {
-      "path": "assets/StaffView-B9-ZSe58.js",
-      "sha256": "9a980f03bd558d4a49d699d74fe3a8b0456d82691682e7a4ea0b39bd274dae56"
-    },
-    {
-      "path": "assets/RemindersView-CFS8EMsO.js",
-      "sha256": "9506c8b4d31f7f85154c6323dd24e6d41ea720024a467d9f00888d19b4a7815e"
-    },
-    {
-      "path": "assets/dist-BDRft1_1.js",
-      "sha256": "4f4908a8a468e1b152016bb60d1988a7b67321f370c990235cb24c00d693fe9a"
-    },
-    {
-      "path": "assets/useUserDirectory-DmhzK5ao.js",
-      "sha256": "9652192401ed07aa8f14adb5dd0e26c8d10377eeb6c928856af527e61167e34d"
-    },
-    {
-      "path": "assets/SpacesView-BUkzJoZX.js",
-      "sha256": "12ceea3c28f3bed9c35cbd9aefff82f837f240b82bd93a0fd5602b84be7b0428"
-    },
-    {
-      "path": "assets/ActivityBannersView-B_lttY0c.js",
-      "sha256": "c19aad74bc7a44fdac224d567f1f5df8872dea04282e7594ebd3d49be156cc5e"
-    },
-    {
-      "path": "assets/AcademiesView-DVjmQLoK.js",
-      "sha256": "66a9e3ea9658e00632d01977378b36fa6edfd5ff28266fc5c580ff573b7f36bc"
-    },
-    {
-      "path": "assets/index-UgaTi1y-.css",
-      "sha256": "4dd52c19f595d60aa169b30af0bd3bb00815aac46d61e3d089b8638a681bb337"
-    },
-    {
-      "path": "assets/index-BjHp-6fq.js",
-      "sha256": "09d923d922694082200fa43e509e834d6a728c5fa1c9487073866ca5012156bd"
-    },
-    {
-      "path": "assets/quizImport-BRfFO5ln.js",
-      "sha256": "cd03f523cb3cf8b36f7f0109a84dcd8fa9901c24aa24db4c5853bc9832c58dff"
-    },
-    {
-      "path": "assets/UserDirectory-C2h7ZxBZ.js",
-      "sha256": "fb08f9b30979185ec9a9d061b43e258bc6c944ba49bcfff73b2d41bd789f8183"
-    },
-    {
-      "path": "assets/LearningQuizEditor-C2Nn6i6e.js",
-      "sha256": "87dd29015f7350d61c25c4606bf8b1f437aff71795c9359258166b8c8714a176"
+      "path": "assets/academy-CXgHO2YL.js",
+      "sha256": "451093f5b2c891a829e21387a0528d5653c55ee599ef47fdec7e4c33d402bdaf"
     },
     {
       "path": "assets/api-XytLR2wh.js",
       "sha256": "00c3be7fc1dafe7b95b3fa08788f5259a7747909b087940b7ccc322750298502"
     },
     {
+      "path": "assets/dist-BDRft1_1.js",
+      "sha256": "4f4908a8a468e1b152016bb60d1988a7b67321f370c990235cb24c00d693fe9a"
+    },
+    {
+      "path": "assets/hls-DEc1BeRd.js",
+      "sha256": "7402484d115501214bef8d8140b5971af4403ce4bed639b242f19e152c534f80"
+    },
+    {
+      "path": "assets/index-CmNSB23Z.js",
+      "sha256": "11c173433a8417f32226bf8986dfd058a0cb818a760f2880451155fa7a0dc0f5"
+    },
+    {
+      "path": "assets/index-UgaTi1y-.css",
+      "sha256": "4dd52c19f595d60aa169b30af0bd3bb00815aac46d61e3d089b8638a681bb337"
+    },
+    {
+      "path": "assets/index.browser-CASsioUm.js",
+      "sha256": "6083ed6e0ca23381f8a3dea8bf57c01f555fbc47ad5e2cc39c130c6f59990a41"
+    },
+    {
       "path": "assets/productImageTransfer-DQPlX4Fg.js",
       "sha256": "2eb7e96412c1bdb5cac18e15a97d31a4c2b8ebd5b26b81c3b50bb21261d33071"
     },
     {
-      "path": ".vite/manifest.json",
-      "sha256": "470b1e84bdb1fc1934a3c19581967836f529e6803112b721589b2afbdc220d7a"
+      "path": "assets/quizImport-BRfFO5ln.js",
+      "sha256": "cd03f523cb3cf8b36f7f0109a84dcd8fa9901c24aa24db4c5853bc9832c58dff"
+    },
+    {
+      "path": "assets/tc_vod-BQFMLkf-.js",
+      "sha256": "2cebb9edc2f2c79b81453347b595245185f109745aa7fe1ba608c6cf4ccdaeb3"
+    },
+    {
+      "path": "assets/useListWindow-DtAUAs5N.js",
+      "sha256": "8450ed8a6e24eb66930c1601375070e06092ac2c278b863e52c21714cf05d5b3"
+    },
+    {
+      "path": "assets/useUserDirectory-57ixXgPp.js",
+      "sha256": "e5f5faf0cd03a26c4f18e13de9fcd8385c3495624492ed64c9357ba1516f408c"
+    },
+    {
+      "path": "index.html",
+      "sha256": "1ddad47f19d8490b2af928151afa6f6a8c9358573d7b65dec4f20f01aa720f0c"
     }
-  ],
-  "livePaymentVerified": false
+  ]
 }

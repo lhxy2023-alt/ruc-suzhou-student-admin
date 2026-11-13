@@ -2,7 +2,7 @@
 
 ## 商城交付与学生档案（2026-11-14）
 
-源码 [927fc67](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/927fc67ba406932239fe6559fb06dbd95047aa82)。商品可配置自动开课和资料链接；学生档案使用独立页面，按需查看授权、购买订单、论坛和下载记录。退款必须人工审核，现金由管理员在支付平台操作后核对到账。校验见 `commerce-dossier-release.json`。既有静态资源与学习网页保留。
+源码 [5bd806b](https://github.com/lhxy2023-alt/ruc-suzhou-student-app/commit/5bd806bb41edd31668f73e74be7093f83f08c853)。商品可配置自动开课和资料链接；学生档案使用独立页面，按需查看授权、购买订单、论坛和下载记录。退款必须人工审核，现金由管理员在支付平台操作后核对到账。校验见 `commerce-dossier-release.json`。既有静态资源与学习网页保留。
 
 ## 资料库多级目录路径（2026-11-10）
 
