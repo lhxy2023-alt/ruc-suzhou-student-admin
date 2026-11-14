@@ -1,0 +1,57 @@
+{
+  "source": "038147f919f66a4521a13bdc82437048caafd5dd",
+  "sourceMain": "6e7e3b7178ca8bcc6c1cd9dec021276e99c858a7",
+  "sourcePR": 410,
+  "adminUrl": "https://lhxy2023-alt.github.io/ruc-suzhou-student-admin/",
+  "scope": [
+    "admin",
+    "rucStudentApi"
+  ],
+  "features": [
+    "paged full-width points ledger",
+    "on-demand adjustment and scoped recipient picker",
+    "no full wallet/directory scan",
+    "frozen adjustment recovery after refresh"
+  ],
+  "validation": {
+    "relatedServerTests": 88,
+    "browserTests": 20,
+    "typecheck": true,
+    "productionBuild": true,
+    "contracts": 8
+  },
+  "files": {
+    "assets/AcademiesView-BEGBcvih.js": "24362e6c414ea46f2a6152a9ac36b86e263b5c6551d8cfe45e8cd32d35f5830b",
+    "assets/ActivityBannersView-t3RXaPuV.js": "a4691b8f289cbd4f465c506dafa039ae36fb5d5c92fc21f14197c2b4b3dbaf97",
+    "assets/ActivityExclusions-B_1kbIws.js": "4941545b07dac3571d7765d6b56a57447f73caf87a5acab2615ca0acd2729929",
+    "assets/AdminDrawer-BBZ-pd2Y.js": "aa541d5554f7f0d12e3d05edca0d33eb07e0ea7f9b28ef34fe134b19e8e14841",
+    "assets/AuditView-C-MjuWwT.js": "5e3b8202d278dfd406abeb6d2ccf67fff4439b7750f649e0fd66ecd5765fdfb7",
+    "assets/ClientCopyView-CVEH9ihG.js": "448813d9b4ffb6dbad1e3ff07b15f03c8c2a4b7d418231ac192efdaf02e10ede",
+    "assets/CommerceView-CcF-XUvs.js": "0eccebd230bd2709c8909cf1eac8fa415b1bf50a8b081c8523c6af155af8a566",
+    "assets/CoursesView-BMWPhm7E.js": "756d65ab7daffa88fa310b15189aceb3eada251062d06ac85e65cec8e30b9633",
+    "assets/DateRangeFilter-BwNMzSR6.js": "dcfdd0a456b5d8d1802f6089b96d9e87fdd59046155a6afe9a3726cbecc9a9af",
+    "assets/ForumView-911f6pRy.js": "319dd58933ee31f506ca19d57e38d0227d02911b20c651cd1c09cf8e06e2df45",
+    "assets/LearningPreview-D5Ym-uv-.js": "e3d064641279f445757ae3204593cd696e2bc1bad43f5f0ab0aebcaf45207d4d",
+    "assets/LearningQuizEditor-C1_b-CWs.js": "8d3518981a820ecc0829dba4767b472205c7d6cbb414dc03b90d4496f3144fb6",
+    "assets/LearningView-C6rN9qJx.js": "e6d3035d7826b40d9261ebcc8f48a58d31cca876b11de2911a10d1936d1b2d5c",
+    "assets/MessagesView-DYt86Gvu.js": "0e4d5a5fcedab9b6bc12dc779c808d5caf6f8577f70c33cdb463ba6cc6b47f39",
+    "assets/RemindersView-CLlAL5D8.js": "ca7b53eccd2a86abcb134417c7c02772b1c3ef7a10c76a9ad1fdc61981b21c3b",
+    "assets/SpacesView-BS0obbbw.js": "447b516efae333330912f4d85fe173210af213e537005c18f8faa4ad958ebd4c",
+    "assets/StaffView-BnlQK6u_.js": "bcb2459f4a69f6ce3ba3a8bc24efe1d1027b12a5de5ef14fdee89729ec30385f",
+    "assets/UsageDashboard-BJ41Nv6H.css": "ddd38a348bc0405d9345b452bf9f3c47a8c68e984c33f4a245e39c64c2b2fd55",
+    "assets/UsageDashboard-pYDO_CWd.js": "5f953bee512a1ed5a72cc0b80ea425ce6e63d072282d47df4f33b7df26b4ea42",
+    "assets/UserDirectory-DuIep60d.js": "fecb00c7603b7ee6a0c0e930bb169958e0e84e469c23645473910275c3a51e20",
+    "assets/academy-CXgHO2YL.js": "451093f5b2c891a829e21387a0528d5653c55ee599ef47fdec7e4c33d402bdaf",
+    "assets/api-XytLR2wh.js": "00c3be7fc1dafe7b95b3fa08788f5259a7747909b087940b7ccc322750298502",
+    "assets/dist-BDRft1_1.js": "4f4908a8a468e1b152016bb60d1988a7b67321f370c990235cb24c00d693fe9a",
+    "assets/hls-DEc1BeRd.js": "7402484d115501214bef8d8140b5971af4403ce4bed639b242f19e152c534f80",
+    "assets/index-DOAHYX8m.css": "6ba1f07a5f6c6295699a4324ea6a8fbbd82078359ec544c2c29c8592d787317d",
+    "assets/index-DxVdS_Xb.js": "3d81777ed64f90751ab4264fdab322ad0f1dd908f2c0f6e99a79f11022f6b276",
+    "assets/index.browser-Dhj-9zUA.js": "e28929942f62a9fd77c1c215215e7b832061d7cfd05f90cb525e3dfb1f12555d",
+    "assets/productImageTransfer-DQPlX4Fg.js": "2eb7e96412c1bdb5cac18e15a97d31a4c2b8ebd5b26b81c3b50bb21261d33071",
+    "assets/quizImport-BRfFO5ln.js": "cd03f523cb3cf8b36f7f0109a84dcd8fa9901c24aa24db4c5853bc9832c58dff",
+    "assets/tc_vod-DZ_Q1BPu.js": "390e26a37d60319938bfedfe8ea22f990755810633090293c49e174db817a543",
+    "assets/useListWindow-DtAUAs5N.js": "8450ed8a6e24eb66930c1601375070e06092ac2c278b863e52c21714cf05d5b3",
+    "index.html": "0376ab51f4ed329d619ab06013107f34972750ee26ebfc2225279e2abe4de30a"
+  }
+}
