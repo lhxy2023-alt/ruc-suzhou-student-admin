@@ -1,0 +1,13 @@
+{
+  "sourceMain": "e76c91becf4a6fd857b75b36bb3e3c3b9c53fe7e",
+  "sourcePr": 412,
+  "builtAt": "2026-11-14T08:45:04.141128+00:00",
+  "features": [
+    "student-device-management",
+    "single-account-playback",
+    "phone-confirmed-switch",
+    "weak-network-grace"
+  ],
+  "priorAssetsPreserved": true,
+  "realDeviceAcceptance": false
+}
