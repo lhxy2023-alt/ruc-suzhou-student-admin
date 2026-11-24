@@ -1,0 +1,152 @@
+{
+  "feature": "learning-tree-batch-grants",
+  "sourceRepo": "lhxy2023-alt/ruc-suzhou-student-app",
+  "sourcePr": 426,
+  "sourceBranch": "feat/learning-tree-batch-grants-20261124",
+  "sourceSha": "e115bca",
+  "publishedAt": "2026-11-24T07:39:24.280Z",
+  "learningService": {
+    "name": "lehuLearningApi",
+    "status": "Active",
+    "available": "Available"
+  },
+  "miniProgramDevVersion": "2026.11.24.153321",
+  "files": {
+    "index.html": {
+      "bytes": 566,
+      "sha256": "fc307b6c9dfb9dacfe6462ed98d59c3af4b27f665bf4c523cc93d2fb962ee7cc"
+    },
+    "assets/AcademiesView-D3gIUVaH.js": {
+      "bytes": 6884,
+      "sha256": "91f019eb0413e78c9b81bc63402c3dc375bf3a6daa6229d84d30ac9c36812d24"
+    },
+    "assets/ActivityBannersView-Bgq5Tgls.js": {
+      "bytes": 18313,
+      "sha256": "3dbbe9c2c90d3f684157465c7b6c7dc5e1d57d512955eb146cdda67369eb7c6b"
+    },
+    "assets/ActivityExclusions-BS9UljmO.js": {
+      "bytes": 2652,
+      "sha256": "4ed142e88669afe69cb86ff2b85834e1b26e08940676a5499ab877df29d7e9c7"
+    },
+    "assets/AdminDrawer-BBZ-pd2Y.js": {
+      "bytes": 866,
+      "sha256": "aa541d5554f7f0d12e3d05edca0d33eb07e0ea7f9b28ef34fe134b19e8e14841"
+    },
+    "assets/AuditView-7JRx3eC_.js": {
+      "bytes": 4459,
+      "sha256": "7bad821a34d6aff8271847d52eddcfad075af80708137da5906418e41bd4577d"
+    },
+    "assets/ClientCopyView-Cissd5xs.js": {
+      "bytes": 13769,
+      "sha256": "5efc6bf44bbfd6b8ef010adc72fcd2dd5881a0f84c024e550bfbb9f8b758bbfb"
+    },
+    "assets/CommerceView-C2iyWpan.js": {
+      "bytes": 85038,
+      "sha256": "d6ae0f0a6980abe8f78ae7bffb530a8d20504b5c556863aa654b4010825a5e63"
+    },
+    "assets/CoursesView-CbRZGdyE.js": {
+      "bytes": 68252,
+      "sha256": "57720d824d22895fdf53ff00bfebbc6d0be8ee0da0d206bd8b38b620fc271f1b"
+    },
+    "assets/DateRangeFilter-BwNMzSR6.js": {
+      "bytes": 1205,
+      "sha256": "dcfdd0a456b5d8d1802f6089b96d9e87fdd59046155a6afe9a3726cbecc9a9af"
+    },
+    "assets/ForumView-BKGWJJ80.js": {
+      "bytes": 48709,
+      "sha256": "68a49ba242946d3c028f224d1f50774bab87b25ea62399398f60f5ce944dd58f"
+    },
+    "assets/LearningPreview-DlygJhHI.js": {
+      "bytes": 15636,
+      "sha256": "99d37698588df7d06dfac8c130ece62d0312fd06b933b285d7668b8ecfd24988"
+    },
+    "assets/LearningQuizEditor-gw2djv1p.js": {
+      "bytes": 8402,
+      "sha256": "b6298dd061d879a215cf475c832b694e79a1148473f0a0a192e26997011b9e90"
+    },
+    "assets/LearningView-DQN-pBxf.js": {
+      "bytes": 50321,
+      "sha256": "a47705ca78e1382b61e785bec8f7f573eb06e2048f33cfc33761af3c86b21deb"
+    },
+    "assets/MessagesView-CnS3FaxP.js": {
+      "bytes": 13834,
+      "sha256": "aa8ba8c931aae858dc4ffef6f834a5ccbeb38ec7b080d9bd128c5d31805f44ff"
+    },
+    "assets/RemindersView-DXHet8sk.js": {
+      "bytes": 6065,
+      "sha256": "59362d2d550d6dee0a3cbd6a4a41b24beff04dfba631a1d48c3de1176902fbe9"
+    },
+    "assets/SpacesView-MIiOvuSU.js": {
+      "bytes": 40177,
+      "sha256": "d84e2f6f5e39bfd948dc3d966f8e0a0b3f0857d035e05ede09156fbae7a8018e"
+    },
+    "assets/StaffView-BzxQbALf.js": {
+      "bytes": 6656,
+      "sha256": "49c9044dcfd8dcbdca8af92c8bbc7ae339bf5d7eb16760030a18f5bd15c723bc"
+    },
+    "assets/UsageDashboard-BJ41Nv6H.css": {
+      "bytes": 1272,
+      "sha256": "ddd38a348bc0405d9345b452bf9f3c47a8c68e984c33f4a245e39c64c2b2fd55"
+    },
+    "assets/UsageDashboard-DRCQvXH3.js": {
+      "bytes": 12609,
+      "sha256": "b129bde4a5fc5d493f20aac76bf1514a03d1af6ffe342e6093ca96108a4164b7"
+    },
+    "assets/UserDirectory-BPhYgl0D.css": {
+      "bytes": 1831,
+      "sha256": "1c14426843603a24d4231f2f235d33e4dd09e080b6bd30856af9ad8626ca01da"
+    },
+    "assets/UserDirectory-DP7ejo2f.js": {
+      "bytes": 10127,
+      "sha256": "4db31eaac84ab0396463c59fe5a477c5497870265f0eb8689a3c6fd5eb958729"
+    },
+    "assets/academy-CXgHO2YL.js": {
+      "bytes": 114,
+      "sha256": "451093f5b2c891a829e21387a0528d5653c55ee599ef47fdec7e4c33d402bdaf"
+    },
+    "assets/api-XytLR2wh.js": {
+      "bytes": 14011,
+      "sha256": "00c3be7fc1dafe7b95b3fa08788f5259a7747909b087940b7ccc322750298502"
+    },
+    "assets/dist-BDRft1_1.js": {
+      "bytes": 36402,
+      "sha256": "4f4908a8a468e1b152016bb60d1988a7b67321f370c990235cb24c00d693fe9a"
+    },
+    "assets/hls-DEc1BeRd.js": {
+      "bytes": 579011,
+      "sha256": "7402484d115501214bef8d8140b5971af4403ce4bed639b242f19e152c534f80"
+    },
+    "assets/index-BDMYMlW3.css": {
+      "bytes": 134896,
+      "sha256": "7cb7a9a40da0a481c87a97540643d60931ab6a86375f9df128392420102c7efd"
+    },
+    "assets/index-ENOFbIWC.js": {
+      "bytes": 284338,
+      "sha256": "7d63bcbf185d964bfcb2680e26bb8d2b28aa8e369ce53b887eecc8ae599fb476"
+    },
+    "assets/index.browser-DiYogPG2.js": {
+      "bytes": 119,
+      "sha256": "ffb1a21e8952b5496b4836a2848a313bd9de490c537a1379e62df4942348fa5e"
+    },
+    "assets/learningArchive-C-a9QIC8.js": {
+      "bytes": 101587,
+      "sha256": "267eb6a609f933b33ad45eb60e7d364855e47dddd67e47829b4af70d46645893"
+    },
+    "assets/productImageTransfer-DQPlX4Fg.js": {
+      "bytes": 769,
+      "sha256": "2eb7e96412c1bdb5cac18e15a97d31a4c2b8ebd5b26b81c3b50bb21261d33071"
+    },
+    "assets/quizImport-BRfFO5ln.js": {
+      "bytes": 2569,
+      "sha256": "cd03f523cb3cf8b36f7f0109a84dcd8fa9901c24aa24db4c5853bc9832c58dff"
+    },
+    "assets/tc_vod-Dd_B6D8v.js": {
+      "bytes": 821871,
+      "sha256": "42a319f77a433006152eb5e00b5c862fb2d6a99ac91b8227383135cbe91a2a3f"
+    },
+    "assets/useListWindow-DtAUAs5N.js": {
+      "bytes": 389,
+      "sha256": "8450ed8a6e24eb66930c1601375070e06092ac2c278b863e52c21714cf05d5b3"
+    }
+  }
+}
